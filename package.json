@@ -1,0 +1,28 @@
+{
+  "author": "Soarez <igorsoarez@gmail.com>",
+  "description": "Stack Overflow questions feed consumer.",
+  "tags": [
+    "stack",
+    "overflow",
+    "stackoverflow",
+    "questions",
+    "rss"
+  ],
+  "name": "stack-overflow-rss",
+  "main": "./lib/stack-overflow-rss",
+  "version": "0.1.0",
+  "repository": { 
+    "type": "git",
+    "url": "http://github.com/Soarez/stack-overflow-rss.git"
+  },
+  "bugs": {
+    "url": "http://github.com/Soarez/stack-overflow-rss/issues"
+  },
+  "dependencies": {
+    "request": "~2.9.203",
+    "xml2js": "~0.1.14",
+    "lodash": "~0.4.2",
+    "moment": "~1.7.0"
+  },
+  "engines" : ["node >= 0.6.0"]
+}
