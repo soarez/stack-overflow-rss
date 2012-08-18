@@ -35,3 +35,7 @@ Upon registering, an [EventEmitter](http://nodejs.org/api/events.html) is return
 
 * `'update'` - triggered every time the questions are fetched.
 * `'new'`- triggered only when new questions exist. At leat two updates must be done to trigger this event.
+
+### License
+
+MIT
