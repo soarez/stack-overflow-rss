@@ -7,7 +7,7 @@
 ### Use
 
 ```javascript
-var stackOverflowRss = require('./lib/stack-overflow-rss');
+var stackOverflowRss = require('stack-overflow-rss');
 
 // get the latest javascript questions
 var consumer = stackOverflowRss({ tag: 'javascript'});
