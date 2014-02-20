@@ -10,7 +10,7 @@
   ],
   "name": "stack-overflow-rss",
   "main": "./lib/stack-overflow-rss",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "repository": {
     "type": "git",
     "url": "http://github.com/Soarez/stack-overflow-rss.git"
