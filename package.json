@@ -10,8 +10,8 @@
   ],
   "name": "stack-overflow-rss",
   "main": "./lib/stack-overflow-rss",
-  "version": "0.1.0",
-  "repository": { 
+  "version": "0.2.0",
+  "repository": {
     "type": "git",
     "url": "http://github.com/Soarez/stack-overflow-rss.git"
   },
@@ -24,5 +24,7 @@
     "lodash": "~0.4.2",
     "moment": "~1.7.0"
   },
-  "engines" : ["node >= 0.6.0"]
+  "engines": [
+    "node >= 0.6.0"
+  ]
 }
